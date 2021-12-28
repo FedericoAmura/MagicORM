@@ -1,0 +1,16 @@
+[
+  {
+    "firstname": "Christian",
+    "lastname": "Angelone",
+    "age": 10
+  },
+  {
+    "firstname": "Agustin",
+    "age": 10
+  },
+  {
+    "firstname": "Federico",
+    "lastname": "Amura",
+    "age": -10
+  }
+]
